@@ -12,7 +12,6 @@ I'm a web programming and game development student. I'm looking to improve my pr
 ## 📣 Social Networks and Contact
 
 <a href="https://www.linkedin.com/in/christian-donati-ramires-fagundes-a65668341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/christian-donati-ramires-fagundes-a65668341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 # 💻 Languages ​​I'm Studying
