@@ -1,6 +1,6 @@
 ## Hi there, i'm Christian Donati 👋
 
-I'm a web programming and game development student. I'm looking to improve my programming logic. I also do front-end programming with HTML, CSS, and JavaScript. But I'm also studying to develop back-end programming!
+I'm a web programming and game development student. I'm looking to improve my programming skills. I do front-end programming with HTML, CSS, and JavaScript. But I'm also studying back-end programming! I also program games with GameMaker Language (GML) and study C# to create games in Unity.
 
 ## 📊 GitHub Statistics
 
