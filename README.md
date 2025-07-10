@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, i'm Christian Donati 👋
 
-<!--
-**christianCode95/christianCode95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web programming and game development student. I'm looking to improve my programming logic.
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=christianCode95&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=christianCode95&layout=compact&theme=radical)
+
+---
+
+## 📈 Visitas no Perfil
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=christianCode95&color=blue)
+
+## 📣 Redes Sociais & Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-donati-ramires-fagundes-a65668341/)
+[![GitHub](https://img.shields.io/badge/GitHub-ChristianCode95-black?style=flat&logo=github)](https://github.com/christianCode95)
