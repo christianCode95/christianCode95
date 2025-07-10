@@ -9,10 +9,6 @@ I'm a web programming and game development student. I'm looking to improve my pr
 
 ---
 
-## 📈 Visitas no Perfil
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=christianCode95&color=blue)
-
 ## 📣 Redes Sociais & Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-donati-ramires-fagundes-a65668341/)
