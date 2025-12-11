@@ -2,6 +2,8 @@
 
 I'm a web programming and game development student. I'm looking to improve my programming skills. I do front-end programming with HTML, CSS, and JavaScript. But I'm also studying back-end programming! I also program games with GameMaker Language (GML) and study C# to create games in Unity.
 
+<img src="./Gif%20no%20GitHub.gif" width="800">
+
 ## 📊 GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=christianCode95&show_icons=true&theme=radical)
