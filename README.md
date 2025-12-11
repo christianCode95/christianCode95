@@ -5,7 +5,7 @@ I'm a web programming and game development student. I'm looking to improve my pr
 <img src="./Gif%20no%20GitHub.gif" width="800">
 
 ## 📊 GitHub Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianCode95)](https://github.com/anuraghazra/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianCode95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianCode95)](https://github.com/anuraghazra/github-readme-stats)
 
